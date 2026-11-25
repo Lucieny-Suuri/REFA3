@@ -1,1 +1,6 @@
-Console.Writeline(Moro julma maailma);
+Console.Writeline("Moro julma maailma");
+int bleh = 55;
+int blah = 45;
+int blabber = blah + bleh;
+Console.Writeline($"Tiesikkö että {bleh} + {blah} = {blabber}");
+Console.Writeline("Noh, nytte tiedät");
